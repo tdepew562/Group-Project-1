@@ -29,7 +29,7 @@ To replicate our analysis or further explore the dataset, follow these steps:
 1. Clone or download the repository.
 2. Review the group's findings in the [Project_1_presentation_group_1.pdf](Project_1_Presentation_Group_1.pdf) file.
 3. Explore individual analyses in the [Analysis folder](Analysis/).
-4. Utilize the dataset available in the [resources folder](Resources/job_in_data.csv) for further analysis.
+4. Utilize the dataset available in the [Resources folder](Resources/job_in_data.csv) for further analysis.
 
 ## Contributors
 - Thomas
