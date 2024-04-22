@@ -16,10 +16,10 @@ The dataset used for this project was obtained from [Kaggle](https://www.kaggle.
 ## Presentation and Analysis
 - The group presentation is available in the [Project_1_presentation_group_1.pdf](Project_1_Presentation_Group_1.pdf) file.
 - Individual analysis notebooks are located in the [Analysis folder](Analysis/), including:
-  - [analysis_Chaitanya.ipynb](Analysis/Chaitanya_analysis.ipynb)
-  - [analysis_Amy.ipynb](Analysis/analysis_Amy.ipynb)
-  - [analysis_Jess.ipynb](Analysis/analysis_Jess.ipynb)
-  - [analysis_Thomas.ipynb](Analysis/analysis_Thomas.ipynb)
+  - [Chai analysis](Analysis/Chaitanya_analysis.ipynb)
+  - [Amy analysis](Analysis/analysis_Amy.ipynb)
+  - [Jess analysis](Analysis/analysis_Jess.ipynb)
+  - [Thomas analysis](Analysis/analysis_Thomas.ipynb)
 
 ## Output
 The output folder contains several graphed images generated from the project.
