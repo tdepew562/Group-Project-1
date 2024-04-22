@@ -5,7 +5,7 @@
 Project 1 is a collaborative effort undertaken by a group of individuals focusing on analyzing job data from various perspectives within the data industry. Each member of the group explored a specific aspect of the dataset to gain insights and present findings.
 
 ## Dataset
-The dataset used for this project was obtained from [Kaggle](https://www.kaggle.com/). It contains comprehensive information about jobs in the data industry, including job titles, company sizes, work settings, salaries, and geographic locations. The dataset can be found in the repository under the [resources folder](Resources/job_in_data.csv).
+The dataset used for this project was obtained from [Kaggle](https://www.kaggle.com/). It contains comprehensive information about jobs in the data industry, including job titles, company sizes, work settings, salaries, and geographic locations. The dataset can be found in the repository under the Resources folder.
 
 ## Group Members and Insights
 - **Thomas**: Explored the top three job titles per year.
@@ -29,7 +29,7 @@ To replicate our analysis or further explore the dataset, follow these steps:
 1. Clone or download the repository.
 2. Review the group's findings in the [Project_1_presentation_group_1.pdf](Project_1_Presentation_Group_1.pdf) file.
 3. Explore individual analyses in the [Analysis folder](Analysis/).
-4. Utilize the dataset available in the [Resources folder](Resources/job_in_data.csv) for further analysis.
+4. Utilize the dataset available in the Resources folder for further analysis.
 
 ## Contributors
 - Thomas
